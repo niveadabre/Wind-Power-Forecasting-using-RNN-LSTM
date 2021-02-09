@@ -1,4 +1,4 @@
-#Project Topic : 
+ 
 ##Wind-Power-Forecasting-using-RNN-LSTM
 
 Wind power is one of the most promising renewable energy sources, it is clean, safe, and
