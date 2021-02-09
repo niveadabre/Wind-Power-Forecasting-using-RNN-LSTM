@@ -20,7 +20,7 @@ demand in the energy grid.
 
 
 However, predicting wind signal has always been challenging because the time series data is
-nonlinear, non-stationary and chaotic. In this report, I provide a novel predicting framework
+nonlinear, non-stationary and chaotic. In this project, I predicted framework
 including a recurrent neural network (RNN) structure model with long, short term memory
 (LSTM) units and an effective forecasting map adapted to different prediction horizons.
 I compare our new approach with concurrent methods like Random forest Regression model
